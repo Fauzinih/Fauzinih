@@ -14,6 +14,5 @@ Saya seorang **Mahasiswa** di [Universitas Malikussaleh](https://unimal.ac.id/).
 <p align="left">
 <a href="https://github.com/Fauzinih">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fauzinih&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fauzinih&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
