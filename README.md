@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **M. Fauzhi Azhima**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas Malikussaleh](https://unimal.ac.id/).<br>
+Saya **Mahasiswa** di [Universitas Malikussaleh](https://unimal.ac.id/).<br>
 
 **Prodi Teknik Informatika**.<br>
 
