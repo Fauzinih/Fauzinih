@@ -17,7 +17,7 @@ Saya **Mahasiswa** di [Universitas Malikussaleh](https://unimal.ac.id/).<br>
 <a href="https://www.instagram.com/fauzi_azm/">
   <img align="left" alt="Fauzi Istagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/c754e642ab1eb7950904643f8393ee7d115a463f/images/svg/instagram.svg" />
 </a>
-
+<br>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Fauzinih">
