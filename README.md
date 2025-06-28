@@ -8,7 +8,7 @@ Saya **Mahasiswa** di [Universitas Malikussaleh](https://unimal.ac.id/).<br>
 
 **Reach me on**:<br>
 <br>
-<a href="https://www.linkedin.com/in/m-fauzhi-azhima-774891327/">
+<a href="www.linkedin.com/in/fauzhi-azhima">
   <img align="left" alt="Fauzi Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="mailto:fauzhiazhima102@gmail.com">
